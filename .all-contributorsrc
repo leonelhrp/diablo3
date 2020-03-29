@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "baumannzone",
-      "name": "Jorge Baumann",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/5422102?v=4",
-      "profile": "https://twitter.com/baumannzone",
+      "login": "leonelhrp",
+      "name": "Leonel Rojas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5928864",
+      "profile": "https://instagram.com/leonelhrp",
       "contributions": [
         "code",
         "maintenance",
@@ -21,8 +21,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "diablo3-vue-platzi",
-  "projectOwner": "baumannzone",
+  "projectName": "diablo3",
+  "projectOwner": "leonelhrp",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
